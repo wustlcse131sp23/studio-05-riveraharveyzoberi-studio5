@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"studio5","l":"DrawBullsEyesDebugApp"},{"p":"studio5","l":"Methods"},{"p":"studio5","l":"MethodsTestSuite"}];updateSearchResults();
